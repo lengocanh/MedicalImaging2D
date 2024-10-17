@@ -88,6 +88,7 @@ The Threshold is caculated to have the best F1 score
 **Patient Population Description for FDA Validation Dataset:**
 * Patient age is 1-95 years
 * Balance distribution between male and female
+* Balance PA and AP view position
 
 **Ground Truth Acquisition Methodology:**
 The ground truth for pneumonia use Natural Language Processing to text-mine disease classifications from the associated radiological reports. The labels are expected to be >90% accurate
